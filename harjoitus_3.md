@@ -2,6 +2,7 @@
 
 ### Tehtävä 1
 
+```sql
 SELECT * FROM goal;
 
 ![ruudunkaappaus](https://i.imgur.com/tFme2Yk.png)
@@ -20,6 +21,6 @@ SELECT name FROM airport WHERE iso_country="FI" ORDER BY name ASC;
 
 ### Tehtävä 4
 
-SELECT name, type FROM airport WHERE iso_country = "FI" ORDER BY type, name
+SELECT name, type FROM airport WHERE iso_country = "FI" ORDER BY type, name;
 
 ![screenshot](https://i.imgur.com/iqXolWc.png)
