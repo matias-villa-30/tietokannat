@@ -1,6 +1,6 @@
-# Yhteen tauluun kohdistuvien kyselyiden harjoitukset Tentti
+# Yhteen tauluun kohdistuvien kyselyiden harjoitukset
 
 ### Tehtävä 1
 
 SELECT * FROM goal;
-![ruudunkaappaus](//imgur.com/a/jk6CUZU)
+![ruudunkaappaus](https://imgur.com/tFme2Yk)
