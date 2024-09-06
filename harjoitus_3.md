@@ -16,10 +16,10 @@ SELECT name airport_type FROM airport WHERE iso_country = "FI";
 
 SELECT name FROM airport WHERE iso_country="FI" ORDER BY name ASC;
 
-![screenshotti](https://imgur.com/a3271731-5b7d-47ca-8ca4-f94ae54f6195)
+![screenshotti](https://i.imgur.com/awbmBGP.png)
 
 ### Tehtävä 4
 
 SELECT name, type FROM airport WHERE iso_country = "FI" ORDER BY type, name
 
-![screenshot](https://imgur.com/b2d94b8c-9c05-4bbd-873e-f96ce4725d8f)
+![screenshot](https://i.imgur.com/iqXolWc.png)
