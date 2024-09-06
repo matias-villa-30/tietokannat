@@ -2,7 +2,6 @@
 
 ### Tehtävä 1
 
-```sql
 SELECT * FROM goal;
 
 ![ruudunkaappaus](https://i.imgur.com/tFme2Yk.png)
