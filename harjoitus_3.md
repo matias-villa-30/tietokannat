@@ -23,3 +23,9 @@ SELECT name FROM airport WHERE iso_country="FI" ORDER BY name ASC;
 SELECT name, type FROM airport WHERE iso_country = "FI" ORDER BY type, name;
 
 ![screenshot](https://i.imgur.com/iqXolWc.png)
+
+### Tehtävä 5
+
+SELECT name FROM country WHERE name LIKE "F%";
+
+![screenshot](https://i.imgur.com/wTXsDFX.png)
