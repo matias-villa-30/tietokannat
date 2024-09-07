@@ -80,9 +80,9 @@ WHERE goal_id = id AND game_id = 1;
 SELECT name FROM airport, game
 WHERE location = ident AND screen_name = "Ilkka";
 
-![screenshot]()
+![screenshot](https://i.imgur.com/Wq9YV9B.png)
 
 
 ### Tehtävä 10
 
-![screenshot]()
+
